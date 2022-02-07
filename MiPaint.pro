@@ -22,3 +22,18 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+DISTFILES += \
+    Recursos/archivo-nuevo.png \
+    Recursos/chapoteo.png \
+    Recursos/circulo.png \
+    Recursos/contorno-de-forma-geometrica-rectangular.png \
+    Recursos/disquete.png \
+    Recursos/expandir-ancho.png \
+    Recursos/linea-diagonal.png \
+    Recursos/linea.png \
+    Recursos/salida.png \
+    Recursos/teoria-del-color.png
+
+RESOURCES += \
+    Resources.qrc

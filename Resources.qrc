@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/archivo-nuevo.png</file>
+        <file>Recursos/chapoteo.png</file>
+        <file>Recursos/circulo.png</file>
+        <file>Recursos/contorno-de-forma-geometrica-rectangular.png</file>
+        <file>Recursos/disquete.png</file>
+        <file>Recursos/expandir-ancho.png</file>
+        <file>Recursos/linea.png</file>
+        <file>Recursos/linea-diagonal.png</file>
+        <file>Recursos/salida.png</file>
+        <file>Recursos/teoria-del-color.png</file>
+    </qresource>
+</RCC>
